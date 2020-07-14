@@ -2,4 +2,4 @@
 
 ## Purpose
 
-This repository contains work done concerning coding exercises. 
+This repository contains resources used for further exploration of my Codeup capstone project, Data & Urban Development.
