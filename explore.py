@@ -10,7 +10,6 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.cluster import KMeans
 
 import wrangle as wr
-import preprocessing as pr
 
 import scipy.stats as stats
 
